@@ -5,5 +5,4 @@
         </h2>
     </x-slot>
 
-    <livewire:counter />
 </x-app-layout>
